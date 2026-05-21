@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Roofing services for repairs, replacements and long-term protection.",
+    "text": "From single leak repairs to complete re-roofs, every service is delivered with practical survey work, clear recommendations and careful workmanship.",
+    "image": "/images/source/services/roof-repairs/roof-repair-03.webp"
+  },
+  "intro": {
+    "eyebrow": "Service menu",
+    "title": "Choose a focused service or combine several into a complete roof plan."
+  },
+  "cta": {
+    "title": "Need help deciding what your roof needs first?",
+    "text": "Share photos and rough symptoms. Genesis Roofing & Building can recommend a sensible inspection, repair route or replacement plan."
+  }
+}

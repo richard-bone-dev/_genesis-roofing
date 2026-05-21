@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Repairs",
+    "question": "Can you diagnose where a roof leak is coming from?",
+    "answer": "Yes. We inspect visible coverings, junctions, gutters, chimneys, flashings and surrounding details before recommending repair work."
+  },
+  {
+    "category": "Repairs",
+    "question": "Do you carry out emergency roofing work?",
+    "answer": "Where access and weather conditions allow, Genesis Roofing & Building can advise on urgent temporary protection and schedule permanent repairs."
+  },
+  {
+    "category": "New roofs",
+    "question": "How do I know whether I need repairs or a new roof?",
+    "answer": "A survey looks at the age and condition of the covering, underlay, battens, fixings, leaks, movement and repeated defect history. We then explain repair and replacement options."
+  },
+  {
+    "category": "Flat roofing",
+    "question": "What causes flat roof failure?",
+    "answer": "Common causes include poor falls, damaged surfaces, failed edges, blocked outlets, split upstands or a rotten roof deck beneath the system."
+  },
+  {
+    "category": "Roofline",
+    "question": "Can fascias, soffits and guttering be replaced together?",
+    "answer": "Yes. These elements work together at the roof edge, so replacing them as a coordinated roofline package is often sensible."
+  },
+  {
+    "category": "Storm damage",
+    "question": "What should I do if tiles come loose in a storm?",
+    "answer": "Do not climb onto the roof. Move belongings away from any leak, take safe internal photos and arrange a roofing assessment as soon as possible."
+  },
+  {
+    "category": "Surveys",
+    "question": "Do roof inspections include photos?",
+    "answer": "Where safe access allows, photos can be included to help explain the visible issues and support the recommended scope."
+  },
+  {
+    "category": "Quotations",
+    "question": "Do you provide free roofing quotations?",
+    "answer": "Yes. After understanding the roof issue, access and likely scope, we can provide a clear quotation for repairs, inspections or replacement work."
+  },
+  {
+    "category": "Materials",
+    "question": "Can you match existing roof tiles or slates?",
+    "answer": "We try to source a close match, but exact availability depends on age, profile, colour and whether the original product is still made."
+  }
+]

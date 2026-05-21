@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "eyebrow": "About Genesis Roofing & Building",
+    "title": "Roofing work built around careful inspection and dependable delivery."
+  },
+  "story": {
+    "eyebrow": "Company story",
+    "missionEyebrow": "Mission",
+    "image": "/images/source/services/new-roofs/re-roof-05.webp"
+  },
+  "values": {
+    "eyebrow": "Values",
+    "title": "The standards behind every roofing job."
+  },
+  "team": {
+    "eyebrow": "Team",
+    "title": "Specialists who keep survey, access and delivery connected.",
+    "text": "A small senior team anchors the customer experience, with roofing specialists brought in according to the scope, access needs and materials involved."
+  },
+  "process": {
+    "eyebrow": "Working process",
+    "title": "Measured surveys, safe access and a tidy handover."
+  }
+}

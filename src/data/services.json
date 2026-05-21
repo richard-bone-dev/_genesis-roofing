@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "roof-repairs",
+    "title": "Roof Repairs",
+    "navigationLabel": "Roof Repairs",
+    "icon": "Hammer",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Targeted repairs for leaks, slipped tiles, damaged verges, ridge tiles and localised weather damage.",
+    "overview": "Genesis Roofing & Building carries out focused roof repairs that start with diagnosis. We look for the cause of water ingress or movement, then recommend a repair that restores weather protection without pushing unnecessary replacement work.",
+    "image": "/images/source/services/roof-repairs/roof-repair-02.webp",
+    "heroImage": "/images/source/services/roof-repairs/ridge-tile-replacement-02.webp",
+    "benefits": ["Leak tracing and clear repair scopes", "Tile, ridge, verge and flashing repairs", "Suitable temporary weatherproofing where needed", "Photo-led handover on completed work"],
+    "features": ["Slipped or cracked tile replacement", "Ridge tile rebedding", "Dry verge and mortar verge repairs", "Localised storm damage work"],
+    "process": ["Inspect the affected roof area", "Identify cause and access needs", "Complete agreed repair", "Check weatherproofing and clear debris"],
+    "faq": [
+      { "question": "Can you repair a small leak without replacing the roof?", "answer": "Often, yes. We inspect the area first and will recommend a targeted repair where the rest of the roof is serviceable." },
+      { "question": "Do you provide temporary repairs?", "answer": "Where safe and practical, temporary weatherproofing can help reduce damage until a permanent repair is scheduled." }
+    ],
+    "related": ["storm-damage-repairs", "roof-inspections", "tile-roofing"]
+  },
+  {
+    "slug": "new-roofs",
+    "title": "New Roofs",
+    "navigationLabel": "New Roofs",
+    "icon": "House",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Complete roof replacement and re-roofing works using suitable coverings, battens, membranes and details.",
+    "overview": "A new roof is planned as a complete system, not just a visible covering. Genesis Roofing & Building considers structure, ventilation, underlay, battens, fixings, flashings, drainage and finishing details so the result is durable and tidy.",
+    "image": "/images/source/services/new-roofs/re-roof-04.webp",
+    "heroImage": "/images/source/services/new-roofs/re-roofing-02.webp",
+    "benefits": ["Complete strip and recover options", "Tile, slate and sheet roofing advice", "Ventilation and underlay upgrades", "Clear sequencing for scaffold, materials and waste"],
+    "features": ["Full re-roofs", "Extension and outbuilding roofs", "Corrugated and sheet roofing", "Roofline and gutter coordination"],
+    "process": ["Survey roof condition and structure", "Specify covering and details", "Arrange safe access and strip works", "Install, finish and inspect"],
+    "faq": [
+      { "question": "How long does a new roof take?", "answer": "Many domestic re-roofs take one to three weeks on site, depending on roof size, access, weather, chimney work and roofline details." },
+      { "question": "Can you replace gutters at the same time?", "answer": "Yes. Fascias, soffits and guttering are often best reviewed while access is already in place." }
+    ],
+    "related": ["pitched-roofing", "tile-roofing", "fascias-soffits-guttering"]
+  },
+  {
+    "slug": "flat-roofing",
+    "title": "Flat Roofing",
+    "navigationLabel": "Flat Roofing",
+    "icon": "PanelsTopLeft",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Flat roof repairs and replacements for extensions, garages, porches and commercial roof areas.",
+    "overview": "Flat roofs depend on correct falls, edges, outlets and detailing. Genesis Roofing & Building installs and repairs practical flat roofing systems for domestic and light commercial properties, with attention to ponding, trims and junctions.",
+    "image": "/images/source/services/flat-roofing/genesis-glass-reinforced-plastic-after.webp",
+    "heroImage": "/images/source/services/flat-roofing/genesis-3-layer-felt.webp",
+    "benefits": ["Felt and GRP-style flat roof options", "Falls, outlets and edge trims checked", "Garage, porch and extension roofs", "Repair or replacement advice based on condition"],
+    "features": ["Flat roof overlays where suitable", "Full deck replacement", "Outlet and drainage improvements", "Upstand and abutment detailing"],
+    "process": ["Assess deck and drainage", "Agree repair or replacement route", "Prepare deck and perimeter details", "Install system and final checks"],
+    "faq": [
+      { "question": "Why is my flat roof holding water?", "answer": "Ponding can be caused by poor falls, blocked outlets or deck movement. We check the drainage route before recommending work." },
+      { "question": "Can flat roofing be repaired?", "answer": "Some local defects can be repaired. Widespread cracking, a rotten roof deck or repeated leaks may point toward replacement." }
+    ],
+    "related": ["roof-repairs", "new-roofs", "roof-inspections"]
+  },
+  {
+    "slug": "pitched-roofing",
+    "title": "Pitched Roofing",
+    "navigationLabel": "Pitched Roofing",
+    "icon": "Triangle",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Pitched roof repairs, replacements and detail upgrades for tiled, slate and mixed roof coverings.",
+    "overview": "Genesis Roofing & Building works on pitched roofs where weather protection depends on the right covering, pitch, lap, underlay, ridge, verge, valley and flashing details. The service can be scoped as repair, overhaul or replacement.",
+    "image": "/images/source/services/new-roofs/re-roofing-03.webp",
+    "heroImage": "/images/source/services/new-roofs/re-roof-06.webp",
+    "benefits": ["Pitched roof fault diagnosis", "Ridges, verges, valleys and flashings reviewed", "Tile and slate replacement options", "Ventilation and condensation considerations"],
+    "features": ["Main roof repairs", "Extension pitched roofs", "Valley and abutment details", "Ridge and hip work"],
+    "process": ["Survey covering and junctions", "Confirm access and safety method", "Complete repair or renewal works", "Final inspection and clean-down"],
+    "faq": [
+      { "question": "What causes pitched roof leaks?", "answer": "Common causes include slipped tiles, failed flashings, cracked mortar, damaged valleys, blocked gutters or aged underlay." },
+      { "question": "Can you match existing tiles?", "answer": "We aim to match or closely blend replacements, but exact matches depend on tile age, profile and current availability." }
+    ],
+    "related": ["tile-roofing", "slate-roofing", "leadwork"]
+  },
+  {
+    "slug": "slate-roofing",
+    "title": "Slate Roofing",
+    "navigationLabel": "Slate Roofing",
+    "icon": "Layers",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Slate roof repairs and replacement advice for properties needing a crisp, durable roof finish.",
+    "overview": "Slate roofing requires careful lap, fixing, sorting and detail work. Genesis Roofing & Building can inspect slate defects, replace damaged slates and scope renewal where the roof covering or fixings have reached the end of their useful life.",
+    "image": "/images/source/services/roof-repairs/tile-replacement-03.webp",
+    "heroImage": "/images/source/services/new-roofs/re-roofing-05.webp",
+    "benefits": ["Natural and man-made slate advice", "Local slate replacement and refixing", "Ridge, valley and lead detail review", "Repair or renewal advice based on roof condition"],
+    "features": ["Slate replacement", "Slate roof inspections", "Lead flashing coordination", "Ventilation and underlay checks"],
+    "process": ["Inspect slate condition and fixings", "Identify matching or compatible slate", "Repair or renew affected sections", "Check details and clear roof area"],
+    "faq": [
+      { "question": "Can individual slates be replaced?", "answer": "Yes, individual damaged or slipped slates can often be replaced when the surrounding roof is sound." },
+      { "question": "Can a slate roof be repaired instead of replaced?", "answer": "Often, yes. If the surrounding roof is sound, individual slipped or broken slates can usually be replaced or refixed." }
+    ],
+    "related": ["pitched-roofing", "leadwork", "roof-inspections"]
+  },
+  {
+    "slug": "tile-roofing",
+    "title": "Tile Roofing",
+    "navigationLabel": "Tile Roofing",
+    "icon": "Grid3X3",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Tile roof repairs, replacement tiles, ridge work and full tiled roof renewal.",
+    "overview": "Tile roofs need compatible profiles, secure fixings and well-detailed ridges, verges and valleys. Genesis Roofing & Building repairs and renews tiled roofs with attention to both appearance and long-term weather resistance.",
+    "image": "/images/source/services/roof-repairs/tile-replacement-01.webp",
+    "heroImage": "/images/source/services/roof-repairs/repairing-tile-verge-01.webp",
+    "benefits": ["Concrete and clay tile repair options", "Replacement tiles matched where possible", "Ridge and verge detailing", "Full tiled roof replacement planning"],
+    "features": ["Broken tile replacement", "Dry ridge and dry verge options", "Valley and hip work", "Tile roof surveys"],
+    "process": ["Check tile condition and pattern", "Source compatible replacements", "Repair coverings and details", "Inspect finish and water routes"],
+    "faq": [
+      { "question": "Can cracked roof tiles cause leaks?", "answer": "Yes. One cracked or displaced tile can allow wind-driven rain into the roof, especially around junctions and exposed slopes." },
+      { "question": "Do roof tiles need maintenance?", "answer": "Periodic inspections help catch slipped tiles, failing mortar, blocked gutters and moss-related drainage issues early." }
+    ],
+    "related": ["roof-repairs", "pitched-roofing", "new-roofs"]
+  },
+  {
+    "slug": "leadwork",
+    "title": "Leadwork",
+    "navigationLabel": "Leadwork",
+    "icon": "FoldHorizontal",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Lead flashing, soakers and weathering details for chimneys, walls, valleys and roof junctions.",
+    "overview": "Leadwork protects some of the most vulnerable parts of a roof. Genesis Roofing & Building can inspect failed flashings, splits, poor chasing and weathered junctions, then recommend repairs or replacement details that suit the property.",
+    "image": "/images/source/services/chimney-repairs/genesis-chimney-work-after.webp",
+    "heroImage": "/images/source/services/chimney-repairs/genesis-chimney-work-1.webp",
+    "benefits": ["Chimney and abutment flashing work", "Valley and weathering detail checks", "Repair or replacement recommendations", "Practical detailing to suit the property"],
+    "features": ["Step flashings", "Apron flashings", "Lead soakers", "Chimney weathering details"],
+    "process": ["Inspect failed junction", "Confirm detail and access", "Prepare chase or fixing area", "Install and weather-check"],
+    "faq": [
+      { "question": "How do I know if lead flashing has failed?", "answer": "Signs can include damp around chimneys or walls, visible splits, lifted sections, poor mortar chases or staining below a junction." },
+      { "question": "Can leadwork be patched?", "answer": "Small defects may be repairable, but badly split, poorly fitted or aged flashings often need replacement." }
+    ],
+    "related": ["chimney-repairs", "pitched-roofing", "roof-repairs"]
+  },
+  {
+    "slug": "chimney-repairs",
+    "title": "Chimney Repairs",
+    "navigationLabel": "Chimney Repairs",
+    "icon": "BrickWall",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Chimney pointing, flashing checks, weathering details and repair work around vulnerable stacks.",
+    "overview": "Chimneys are exposed to wind, rain and frost from every side. Genesis Roofing & Building inspects stacks, flaunching, pots, leadwork and surrounding roof coverings before recommending a repair scope.",
+    "image": "/images/source/services/chimney-repairs/genesis-chimney-work-after.webp",
+    "heroImage": "/images/source/services/chimney-repairs/genesis-chimney-work-1.webp",
+    "benefits": ["Pointing and weathering checks", "Lead flashing coordination", "Leak diagnosis around stacks", "Repair scopes based on visible condition"],
+    "features": ["Repointing", "Flaunching repairs", "Chimney flashing work", "Pot and cowl advice"],
+    "process": ["Survey stack and roof junction", "Identify mortar, lead or covering issues", "Carry out repairs safely", "Check water-shedding details"],
+    "faq": [
+      { "question": "Can a chimney cause a roof leak?", "answer": "Yes. Failed flashing, cracked flaunching, porous brickwork and damaged pointing are common causes of leaks around stacks." },
+      { "question": "Do unused chimneys still need maintenance?", "answer": "Yes. Even unused stacks remain exposed and can let water into the property if the details fail." }
+    ],
+    "related": ["leadwork", "roof-repairs", "roof-inspections"]
+  },
+  {
+    "slug": "fascias-soffits-guttering",
+    "title": "Fascias, Soffits & Guttering",
+    "navigationLabel": "Fascias & Guttering",
+    "icon": "Droplets",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Roofline replacement and rainwater goods to protect rafters, walls and foundations from water damage.",
+    "overview": "The roofline controls how rainwater leaves the roof. Genesis Roofing & Building repairs and replaces fascias, soffits, gutters and downpipes, checking falls, outlet positions and vulnerable timber behind old fittings.",
+    "image": "/images/source/services/fascias-soffits-guttering/genesis-guttering-added-to-side-of-building-1.webp",
+    "heroImage": "/images/source/services/fascias-soffits-guttering/fascias-03.webp",
+    "benefits": ["UPVC fascia and soffit options", "Gutter and downpipe replacement", "Blocked or overflowing gutter diagnosis", "Ventilation and roof edge checks"],
+    "features": ["Fascia replacement", "Soffit replacement", "Gutter realignment", "Downpipe installation"],
+    "process": ["Inspect roofline and drainage", "Agree colour and profile", "Remove failed fittings", "Install, align and flow-check"],
+    "faq": [
+      { "question": "Why are my gutters overflowing?", "answer": "Common causes include blockages, poor falls, undersized outlets, damaged joints or gutters pulling away from the fascia." },
+      { "question": "Can fascias be replaced with the roof?", "answer": "Yes. Roofline work is often efficient when scaffolding or roof access is already planned." }
+    ],
+    "related": ["new-roofs", "roof-repairs", "storm-damage-repairs"]
+  },
+  {
+    "slug": "guttering",
+    "title": "Guttering",
+    "navigationLabel": "Guttering",
+    "icon": "Droplets",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Gutter repairs, replacements and downpipe improvements for reliable rainwater management.",
+    "overview": "Good guttering prevents staining, damp, overflowing water and damage to walls or foundations. Genesis Roofing & Building checks flow routes, joints, outlets and downpipes before repairing or replacing rainwater goods.",
+    "image": "/images/source/services/fascias-soffits-guttering/genesis-guttering-added-to-side-of-building-2.webp",
+    "heroImage": "/images/source/services/fascias-soffits-guttering/genesis-porch-downpipe-after.webp",
+    "benefits": ["Leaking joint repairs", "New gutter runs and downpipes", "Falls and outlet positions reviewed", "Colour and profile options"],
+    "features": ["Gutter replacement", "Downpipe upgrades", "Porch and extension rainwater goods", "Overflow problem solving"],
+    "process": ["Inspect existing run", "Identify fall, joint or outlet issues", "Repair or replace fittings", "Flow-check where practical"],
+    "faq": [
+      { "question": "Can a leaking gutter cause damp?", "answer": "Yes. Overflowing or leaking gutters can saturate walls, fascia boards and ground around the property." },
+      { "question": "Do you clean gutters?", "answer": "We focus on gutter repairs, replacements and drainage improvements. If cleaning is needed before repair work, we can advise during the inspection." }
+    ],
+    "related": ["fascias-soffits-guttering", "roof-inspections", "storm-damage-repairs"]
+  },
+  {
+    "slug": "storm-damage-repairs",
+    "title": "Storm Damage Repairs",
+    "navigationLabel": "Storm Damage",
+    "icon": "CloudLightning",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Rapid assessment and practical repairs after wind, heavy rain, fallen branches or sudden roof failure.",
+    "overview": "Storm damage needs a calm, safe response. Genesis Roofing & Building assesses visible roof damage, recommends temporary protection where needed and plans permanent repairs for tiles, ridges, verges, gutters and roof junctions.",
+    "image": "/images/source/services/roof-repairs/genesis-roofing-ridge-tiles-rebedded-during.webp",
+    "heroImage": "/images/source/services/roof-repairs/genesis-roofing-ridge-tiles-rebedded-after.webp",
+    "benefits": ["Urgent roof assessment", "Temporary weatherproofing where safe", "Permanent repair recommendations", "Insurance-friendly photo evidence where helpful"],
+    "features": ["Wind-lifted tiles", "Damaged ridges and verges", "Gutter and fascia damage", "Post-storm inspections"],
+    "process": ["Make initial safety assessment", "Reduce immediate water risk", "Quote permanent repair", "Complete and document works"],
+    "faq": [
+      { "question": "What should I do after storm damage?", "answer": "Stay off the roof, move valuables away from leaks, take safe internal photos and contact a roofing contractor for assessment." },
+      { "question": "Can you help with insurance evidence?", "answer": "We can provide clear photos and scope notes from the roofing side, though claim decisions sit with the insurer." }
+    ],
+    "related": ["roof-repairs", "guttering", "roof-inspections"]
+  },
+  {
+    "slug": "roof-inspections",
+    "title": "Roof Inspections",
+    "navigationLabel": "Roof Inspections",
+    "icon": "SearchCheck",
+    "sourceSupport": "",
+    "editable": true,
+    "shortDescription": "Roof condition checks before repairs, property purchases, seasonal maintenance or suspected leaks.",
+    "overview": "A roof inspection helps separate urgent defects from routine maintenance. Genesis Roofing & Building checks coverings, ridges, verges, valleys, flashings, chimneys, flat roof areas and roofline drainage before recommending next steps.",
+    "image": "/images/source/genesis-7-1.webp",
+    "heroImage": "/images/source/genesis-5.webp",
+    "benefits": ["Plain-English roof condition notes", "Useful before repair decisions", "Photos where access and safety allow", "Editable survey content for future configuration"],
+    "features": ["Leak source checks", "Pre-purchase roof opinions", "Seasonal maintenance inspections", "Flat and pitched roof reviews"],
+    "process": ["Discuss symptoms or concerns", "Inspect safely accessible areas", "Document visible issues", "Recommend repair, monitoring or maintenance"],
+    "faq": [
+      { "question": "When should a roof be inspected?", "answer": "After storms, before buying a property, when a leak appears, or when an older roof has not been checked for several years." },
+      { "question": "Will an inspection include photos?", "answer": "Where access and safety allow, photo evidence can be included to make findings easier to understand." }
+    ],
+    "related": ["roof-repairs", "flat-roofing", "new-roofs"]
+  }
+]

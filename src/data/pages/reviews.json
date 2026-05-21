@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "eyebrow": "Reviews",
+    "title": "Customer feedback shaped by clear roofing work.",
+    "text": "Testimonials covering communication, leak diagnosis, build quality, tidy sites and finished roofing details.",
+    "image": "/images/source/services/new-roofs/re-roofing-04.webp"
+  },
+  "featured": {
+    "eyebrow": "Featured reviews",
+    "title": "The kind of customer experience Genesis Roofing & Building works to provide.",
+    "text": "Clear advice, practical quotations and tidy workmanship from first inspection to handover."
+  },
+  "all": {
+    "eyebrow": "All reviews",
+    "title": "Customer reviews across Genesis Roofing & Building services."
+  },
+  "cta": {
+    "title": "Want your roofing work handled with the same care?",
+    "text": "Book a survey or send photos and Genesis Roofing & Building will map the right route from first inspection to handover."
+  }
+}

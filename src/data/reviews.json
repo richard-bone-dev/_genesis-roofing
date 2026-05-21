@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Helen Carter",
+    "location": "Surrey",
+    "service": "Roof Repairs",
+    "rating": 5,
+    "date": "March 2026",
+    "featured": true,
+    "text": "Genesis Roofing & Building found the leak quickly, explained what had failed and completed the repair without making the job bigger than it needed to be. The photos at the end were genuinely useful."
+  },
+  {
+    "name": "Mark Ellis",
+    "location": "South West London",
+    "service": "New Roof",
+    "rating": 5,
+    "date": "February 2026",
+    "featured": true,
+    "text": "The re-roof was organised, tidy and much less stressful than expected. We had clear dates, sensible advice on materials and a roof that looks properly finished."
+  },
+  {
+    "name": "Priya Shah",
+    "location": "Kingston",
+    "service": "Flat Roofing",
+    "rating": 5,
+    "date": "January 2026",
+    "featured": true,
+    "text": "Our flat roof had leaked twice before. Genesis checked the falls and edges, not just the surface, and the replacement has handled heavy rain without trouble."
+  },
+  {
+    "name": "Andrew Miles",
+    "location": "Richmond",
+    "service": "Fascias, Soffits & Guttering",
+    "rating": 5,
+    "date": "November 2025",
+    "featured": false,
+    "text": "The team replaced old fascias and sorted the gutter run that kept overflowing. The house looks sharper and the rainwater now goes where it should."
+  },
+  {
+    "name": "Rachel Owen",
+    "location": "Wimbledon",
+    "service": "Chimney Repairs",
+    "rating": 5,
+    "date": "October 2025",
+    "featured": false,
+    "text": "A clear explanation of the chimney problem, fair quote and tidy work. The damp patch has dried out and the stack looks much better."
+  },
+  {
+    "name": "Tom Bryant",
+    "location": "Surrey",
+    "service": "Roof Inspection",
+    "rating": 5,
+    "date": "September 2025",
+    "featured": false,
+    "text": "We wanted a roof checked before buying. Genesis gave us a practical list of issues, what was urgent and what could wait."
+  }
+]

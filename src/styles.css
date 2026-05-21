@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --site-header-height: 5rem;
+  color: #111827;
+  background: #f7f3ea;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+}
+
+::selection {
+  background: #a54e2b;
+  color: #fff;
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.section-padding {
+  @apply py-16 sm:py-20 lg:py-28;
+}
+
+.eyebrow {
+  @apply text-xs font-extrabold uppercase tracking-[0.22em] text-tile;
+}
+
+.heading-xl {
+  @apply font-display text-4xl font-extrabold leading-[1.03] text-ink sm:text-5xl lg:text-7xl;
+}
+
+.heading-lg {
+  @apply font-display text-3xl font-extrabold leading-tight text-ink sm:text-4xl lg:text-5xl;
+}
+
+.body-lead {
+  @apply text-base leading-8 text-muted sm:text-lg;
+}
+
+.image-overlay {
+  background:
+    linear-gradient(90deg, rgba(30, 41, 59, 0.9), rgba(51, 65, 85, 0.58), rgba(30, 41, 59, 0.18)),
+    linear-gradient(0deg, rgba(17, 24, 39, 0.56), rgba(17, 24, 39, 0.08));
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity 700ms ease, transform 700ms ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.masonry {
+  column-gap: 1.25rem;
+}
+
+.masonry > * {
+  break-inside: avoid;
+  margin-bottom: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .masonry {
+    columns: 2;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --site-header-height: 7.5rem;
+  }
+
+  .masonry {
+    columns: 3;
+  }
+}

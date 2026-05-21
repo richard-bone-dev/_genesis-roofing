@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "eyebrow": "Contact",
+    "title": "Tell us what is happening with your roof.",
+    "text": "Share the symptoms, rough timing and property details. We will shape the next step around access, weather and urgency.",
+    "image": "/images/source/services/fascias-soffits-guttering/genesis-guttering-added-to-side-of-building-1.webp"
+  },
+  "details": {
+    "eyebrow": "Get in touch",
+    "title": "Book a roofing survey or quote.",
+    "text": "Call, email or send your enquiry with photos and property details. We will advise the most sensible next step."
+  },
+  "map": {
+    "title": "Service area map",
+    "text": "Serving Surrey and South West London with roof repairs, new roofs, flat roofing, guttering and inspections."
+  },
+  "cta": {
+    "title": "Prefer to start with photos?",
+    "text": "Send roof, leak or gutter photos with your postcode and Genesis Roofing & Building can advise what information is needed before a site survey."
+  }
+}

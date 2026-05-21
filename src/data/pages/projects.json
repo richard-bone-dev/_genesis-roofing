@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "eyebrow": "Projects and gallery",
+    "title": "A roofing portfolio shaped around useful project evidence.",
+    "text": "Explore roofing examples across repairs, new roofs, flat roofing, gutterline upgrades, chimney work and inspections."
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Filter by project type and open each project for details.",
+    "text": "Browse examples of roof repairs, re-roofs, flat roofing, guttering, chimney repairs and inspections."
+  },
+  "cta": {
+    "title": "Have a roof problem that needs a proper look?",
+    "text": "Tell us what you can see, when the issue started and whether water is coming in. We will shape the next step around the property and access."
+  }
+}

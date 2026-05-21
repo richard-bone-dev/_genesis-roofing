@@ -1,0 +1,124 @@
+{
+  "name": "Genesis Roofing & Building",
+  "legalName": "Genesis & Co Ltd.",
+  "headerLabel": "Roofing specialists",
+  "tagline": "Roofing Specialists in Surrey & South West London",
+  "description": "Genesis Roofing & Building provides reliable roof repairs, new roofs, flat roofing, pitched roofing, slate and tile roofing, leadwork, chimney repairs, fascias, soffits, guttering, storm damage repairs and roof inspections across Surrey and South West London.",
+  "established": "2016",
+  "editablePlaceholders": true,
+  "address": {
+    "line1": "Surrey service address",
+    "town": "Surrey",
+    "county": "Surrey",
+    "postcode": "KT12",
+    "country": "United Kingdom",
+    "isPlaceholder": true
+  },
+  "phone": "020 0000 0000",
+  "email": "quotes@genesis-roofing.co.uk",
+  "serviceAreas": ["Surrey", "South West London", "Kingston", "Richmond", "Wimbledon", "Guildford"],
+  "hours": [
+    { "day": "Monday - Friday", "time": "08:00 - 18:00" },
+    { "day": "Saturday", "time": "09:00 - 14:00" },
+    { "day": "Sunday", "time": "Urgent roof repairs by arrangement" }
+  ],
+  "hero": {
+    "eyebrow": "Local roofing specialists",
+    "title": "Roof repairs, new roofs and flat roofing done properly.",
+    "intro": "From urgent leak repairs and storm damage to full re-roofs, flat roofing, leadwork and guttering, Genesis Roofing & Building gives clear advice, practical quotations and tidy workmanship across Surrey and South West London.",
+    "image": "/images/source/services/new-roofs/re-roofing-01.webp"
+  },
+  "story": {
+    "eyebrow": "Roofing done with care",
+    "title": "A local roofing team focused on keeping homes dry, safe and well finished.",
+    "body": "Genesis Roofing & Building helps homeowners, landlords and small commercial clients understand what their roof needs before work begins. We inspect the roof, explain the likely cause of leaks or damage, and recommend a practical repair, maintenance or replacement route without pushing unnecessary work.",
+    "image": "/images/source/services/new-roofs/re-roof-05.webp"
+  },
+  "mission": "To provide clear roofing advice, dependable repairs and well planned roof installations for properties across Surrey and South West London.",
+  "values": [
+    {
+      "title": "Find the cause first",
+      "text": "Leaks, slipped tiles and failed details are checked properly so the repair tackles the real problem.",
+      "icon": "SearchCheck"
+    },
+    {
+      "title": "Use the right materials",
+      "text": "Tiles, slates, felt systems, leadwork, battens, underlay and roofline details are chosen to suit the property and exposure.",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Keep customers informed",
+      "text": "You get plain-English recommendations, written quotations and tidy handovers with photos where useful.",
+      "icon": "ClipboardCheck"
+    }
+  ],
+  "whyChoose": [
+    "Reliable roof repairs for leaks, slipped tiles and storm damage",
+    "New roof installations planned around access, ventilation and drainage",
+    "Flat roofing, pitched roofing, slate, tile and leadwork experience",
+    "Fascias, soffits, guttering and chimney repairs handled alongside roof work",
+    "Written quotations and practical roof inspection advice",
+    "Local roofing specialists serving Surrey and South West London"
+  ],
+  "trustIndicators": [
+    "Public liability insured",
+    "Working-at-height safety planning",
+    "Written quotations",
+    "Roof condition photos available",
+    "Free quotations",
+    "Urgent repair options"
+  ],
+  "team": [
+    {
+      "name": "Daniel Price",
+      "role": "Roofing Survey Lead",
+      "bio": "Daniel handles roof inspections, leak diagnosis and practical scopes for repair and replacement projects.",
+      "image": "/images/source/genesis-cherry-picker.webp"
+    },
+    {
+      "name": "Amelia Turner",
+      "role": "Project Coordinator",
+      "bio": "Amelia keeps surveys, quotations, access dates, materials and customer updates moving in the right order.",
+      "image": "/images/source/services/fascias-soffits-guttering/fascias-03.webp"
+    },
+    {
+      "name": "Marcus Hill",
+      "role": "Lead Roofer",
+      "bio": "Marcus oversees site workmanship across pitched roof repairs, re-roofs, flat roofing and roofline details.",
+      "image": "/images/source/services/roof-repairs/ridge-tile-replacement-02.webp"
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Roof inspection",
+      "text": "We check visible coverings, roofline, gutters, chimneys, flashings and the likely source of any leak or damage."
+    },
+    {
+      "step": "02",
+      "title": "Clear quotation",
+      "text": "You receive a practical recommendation with repair or replacement options, material notes and access requirements."
+    },
+    {
+      "step": "03",
+      "title": "Roofing work",
+      "text": "The agreed work is completed with safe access, suitable protection and tidy working areas."
+    },
+    {
+      "step": "04",
+      "title": "Final checks",
+      "text": "We check the finished work, clear debris and explain any maintenance advice or next steps."
+    }
+  ],
+  "cta": {
+    "eyebrow": "Start your roofing enquiry",
+    "title": "Need a roof repaired, checked or replaced?",
+    "text": "Send photos or book a roof inspection and Genesis Roofing & Building will help you understand the right next step.",
+    "primary": "Request a quote",
+    "secondary": "Explore services"
+  },
+  "seo": {
+    "title": "Genesis Roofing & Building | Roof Repairs & New Roofs in Surrey",
+    "description": "Genesis Roofing & Building provides reliable roof repairs, new roofs, flat roofing, guttering, leadwork and roof inspections across Surrey and South West London."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "primary": { "label": "Request a quote", "to": "/contact" },
+    "secondary": { "label": "View roofing work", "to": "/projects" }
+  },
+  "services": {
+    "eyebrow": "Roofing services",
+    "title": "Practical roofing services for repairs, replacements and maintenance.",
+    "text": "Choose from reliable roof repairs, new roofs, flat roofing, pitched roofing, slate and tile work, leadwork, guttering, chimney repairs and roof inspections.",
+    "button": "View all services"
+  },
+  "story": {
+    "button": "Meet Genesis Roofing & Building"
+  },
+  "featuredWork": {
+    "eyebrow": "Featured work",
+    "title": "Recent roofing jobs with practical before-and-after detail.",
+    "button": "Open gallery"
+  },
+  "whyChoose": {
+    "eyebrow": "Why choose us",
+    "title": "Roofing work should make the problem clearer, not more confusing.",
+    "text": "Good roof work depends on what you see and what you do not: safe access, correct materials, neat junctions, reliable drainage and honest communication."
+  },
+  "reviews": {
+    "eyebrow": "Customer reviews",
+    "title": "Clear advice, tidy sites and roofs ready for British weather.",
+    "text": "Homeowners, landlords and small commercial clients choose clear communication, tidy workmanship and sensible roofing advice."
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "A clear process from first roof check to final handover."
+  },
+  "faqs": {
+    "eyebrow": "Quick answers",
+    "title": "Common questions before booking roofing work.",
+    "text": "Get a feel for leaks, surveys, flat roofs, guttering, storm damage and how quotations are handled."
+  }
+}
