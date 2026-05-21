@@ -30,7 +30,7 @@ export default function ContactForm() {
           <textarea required rows="5" className="rounded-md border border-borderline bg-paper px-4 py-3 outline-none transition focus:border-tile" placeholder="Tell us about the roof issue, access, preferred services and rough timing." />
         </label>
       </div>
-      <button disabled={state === "loading"} className="mt-6 inline-flex min-h-12 items-center justify-center rounded-full bg-tile px-7 text-sm font-extrabold text-white transition hover:bg-lead-900 disabled:cursor-wait disabled:opacity-70">
+      <button disabled={state === "loading"} className="mt-6 inline-flex min-h-12 max-w-full items-center justify-center rounded-full bg-tile px-7 text-center text-sm font-extrabold leading-tight text-white transition hover:-translate-y-0.5 hover:bg-lead-900 focus:outline-none focus-visible:ring-4 focus-visible:ring-tile/30 active:translate-y-0 disabled:cursor-wait disabled:opacity-70">
         {state === "loading" ? "Sending enquiry..." : state === "sent" ? "Enquiry received" : "Send enquiry"}
       </button>
       {state === "sent" && <p className="mt-4 text-sm font-semibold text-tile">Thanks, your enquiry has been received.</p>}
