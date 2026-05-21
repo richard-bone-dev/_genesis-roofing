@@ -29,3 +29,29 @@ npm run build
 Expected local dev URL:
 
 `http://127.0.0.1:5175`
+
+## Visual Studio 2026
+
+Open `GenesisRoofing.sln` from the project root in Visual Studio 2026.
+
+Install dependencies:
+
+```sh
+npm install
+```
+
+Run locally:
+
+```sh
+npm run dev
+```
+
+Build:
+
+```sh
+npm run build
+```
+
+Expected local URL:
+
+`http://127.0.0.1:5175`
