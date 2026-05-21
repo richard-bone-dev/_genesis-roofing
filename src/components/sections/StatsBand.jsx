@@ -4,10 +4,13 @@ import stats from "../../data/stats.json";
 function Counter({ value, suffix }) {
   const [count, setCount] = useState(0);
   const ref = useRef(null);
+  const isNumeric = typeof value === "number";
 
   useEffect(() => {
+    if (!isNumeric) return undefined;
+
     const node = ref.current;
-    if (!node) return;
+    if (!node) return undefined;
 
     const observer = new IntersectionObserver(([entry]) => {
       if (!entry.isIntersecting) return;
@@ -25,10 +28,14 @@ function Counter({ value, suffix }) {
 
     observer.observe(node);
     return () => observer.disconnect();
-  }, [value]);
+  }, [isNumeric, value]);
+
+  if (!isNumeric) {
+    return <span>{value}</span>;
+  }
 
   const decimals = Number.isInteger(value) ? 0 : 1;
-  return <span ref={ref}>{count.toFixed(decimals)}{suffix}</span>;
+  return <span ref={ref}>{count.toFixed(decimals)}{suffix || ""}</span>;
 }
 
 export default function StatsBand({ items = stats }) {

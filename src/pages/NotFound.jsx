@@ -4,7 +4,7 @@ import ButtonLink from "../components/ui/ButtonLink.jsx";
 export default function NotFound() {
   return (
     <>
-      <SEO title="Page not found | Genesis Roofing & Building" description="The requested Genesis Roofing & Building website page could not be found." />
+      <SEO title="Page not found | Genesis Roofing" description="The requested Genesis Roofing website page could not be found." />
       <section className="section-padding pt-40">
         <div className="container-page max-w-3xl">
           <p className="eyebrow">404</p>

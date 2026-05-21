@@ -7,10 +7,13 @@
     <ShouldRunBuildScript>true</ShouldRunBuildScript>
     <JavaScriptTestRoot>src\</JavaScriptTestRoot>
   </PropertyGroup>
-
   <ItemGroup>
     <Content Remove="node_modules\**;dist\**;.vs\**;.vite\**" />
     <None Remove="node_modules\**;dist\**;.vs\**;.vite\**" />
+    <None Remove="public\**" />
+    <None Remove="source\**" />
     <TypeScriptCompile Remove="node_modules\**;dist\**;.vs\**;.vite\**" />
+    <TypeScriptConfiguration Remove="public\**" />
+    <TypeScriptConfiguration Remove="source\**" />
   </ItemGroup>
 </Project>

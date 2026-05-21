@@ -1,6 +1,6 @@
 [
-  { "value": 24, "suffix": "hr", "label": "urgent roof repair guidance" },
-  { "value": 12, "suffix": "+", "label": "roofing services available" },
-  { "value": 5, "suffix": "yr", "label": "workmanship guarantee options" },
-  { "value": 100, "suffix": "%", "label": "roofing-focused advice" }
+  { "value": "Free", "label": "roofing enquiries" },
+  { "value": "Local", "label": "roofing and building services" },
+  { "value": "Clear", "label": "communication from first contact" },
+  { "value": "Reliable", "label": "workmanship across the agreed scope" }
 ]

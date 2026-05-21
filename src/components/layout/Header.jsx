@@ -21,18 +21,18 @@ export default function Header() {
   useEffect(() => setOpen(false), [location.pathname]);
 
   const linkClass = ({ isActive }) =>
-    `text-sm font-bold transition ${isActive ? "text-tile" : transparent ? "text-white/90 hover:text-white" : "text-muted hover:text-tile"}`;
+    `text-sm font-bold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-tile/40 ${isActive ? "text-tile" : transparent ? "text-white/90 hover:text-white" : "text-muted hover:text-tile"}`;
 
   return (
     <header className={`fixed inset-x-0 top-0 z-50 transition-all duration-300 ${transparent ? "text-white" : "bg-paper/95 text-ink shadow-sm backdrop-blur-xl"}`}>
       <div className={`hidden border-b lg:block ${transparent ? "border-white/15" : "border-borderline"}`}>
         <div className="container-page flex h-10 items-center justify-between text-xs font-semibold">
-          <p className={transparent ? "text-white/75" : "text-muted"}>{company.tagline}</p>
+          <p className={transparent ? "text-white/75" : "text-muted"}>{company.descriptor}</p>
           <div className="flex items-center gap-6">
-            <a href={`tel:${company.phone.replace(/\s/g, "")}`} className="inline-flex items-center gap-2">
-              <Phone className="h-3.5 w-3.5" /> {company.phone}
+            <a href={company.mobileHref} className="inline-flex items-center gap-2 transition hover:text-tile focus:outline-none focus-visible:ring-2 focus-visible:ring-tile/40">
+              <Phone className="h-3.5 w-3.5" /> {company.mobile}
             </a>
-            <span>{company.email}</span>
+            <a href={company.emailHref} className="transition hover:text-tile focus:outline-none focus-visible:ring-2 focus-visible:ring-tile/40">{company.email}</a>
           </div>
         </div>
       </div>
@@ -42,7 +42,7 @@ export default function Header() {
           <span className={`grid h-11 w-11 place-items-center rounded-full border text-lg font-black ${transparent ? "border-white/40 bg-white/10" : "border-lead-900/10 bg-lead-900 text-white"}`}>G</span>
           <span>
             <span className="block font-display text-xl font-extrabold leading-none">{company.name}</span>
-            <span className={`block text-[11px] font-bold uppercase tracking-[0.16em] ${transparent ? "text-white/60" : "text-muted"}`}>{company.headerLabel}</span>
+            <span className={`block text-[11px] font-bold uppercase tracking-[0.12em] ${transparent ? "text-white/60" : "text-muted"}`}>{company.headerLabel}</span>
           </span>
         </Link>
 
@@ -55,7 +55,7 @@ export default function Header() {
         </div>
 
         <div className="hidden lg:block">
-          <ButtonLink to="/contact" variant={transparent ? "light" : "primary"}>Get a quote</ButtonLink>
+          <ButtonLink to="/contact" variant={transparent ? "light" : "primary"}>Get a free quote</ButtonLink>
         </div>
 
         <button
